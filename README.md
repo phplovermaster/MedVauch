@@ -40,7 +40,7 @@ Sistema inteligente de lembrete e gerenciamento de medicamentos desenvolvido com
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/medvault.git
+https://github.com/phplovermaster/MedVauch.git
 cd medvault
 ```
 
