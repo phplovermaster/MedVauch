@@ -73,5 +73,6 @@ MedVault/
 
 MIT License
 
+https://www.tinkercad.com/things/1ZbO3kmbpdv-projeto-israely/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=hIyC2OYVco5ASlwdU0pQ6GODN0EFcFVtd1RP4OoCpmw
 
 ![CAPTURA DA MONTAGEM](img/Captura%20de%20tela%202026-06-14%20184826.png)
